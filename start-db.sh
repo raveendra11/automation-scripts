@@ -5,7 +5,7 @@ INSTANCE_NAME=dogood
 echo "Starting Cloud SQL instance..."
 
 gcloud sql instances patch $INSTANCE_NAME \
-    --activation-policy=NEVER
+    --activation-policy=ALWAYS
 
 echo "Waiting for instance to be RUNNABLE..."
 
