@@ -1,0 +1,28 @@
+           **ls** - To list files or directories in a current directory.
+           **ls -lrt** - To list files or directories with details (timestamp, user, permissions .. ) in a current directory.
+           **cd** - To change from one to another directory.
+           **mkdir** - To create/make a directory.
+           **whoami** - To check current user.
+           **pwd** - To check present working directory.
+           **rmdir** - To delete an empty directory.
+           **chmod** - To change permissions of files/directories.
+           **chown** - To change ownership of files/directories.
+           **rm** - To remove a file.
+           **cp** - To copy files from one to other directory/copy files in same directory.
+           **mv** - To move file/rename file.
+           **rm -rf** - To remove files, directories and sub-directories.
+           **sudo su** - To login as root user.
+           **cat** - To display file contents on the console.
+           **wc -l** - To count number of lines in a file.
+           **ps aux** - To dispaly all running processes.
+           **grep** - To find and display a particular pattern.
+           **systemctl** -  To find status, start, stop of any processes and service.
+           **tac** - To display the file contents in reverse on console.
+           **tail** - To display ending file contents.
+           **head** - To display starting of file contents.
+           **less** - To paginated viewing of file contents.
+           **more** - To view of file contets one screen/page at a time.
+           **emacs** - To open a gui based file editor.
+           **sudo su** - To switch to root user.
+           **pgrep** - To find processess with name.
+           **touch** - Creates a new empty file or updates the timestamp of an existing one.
